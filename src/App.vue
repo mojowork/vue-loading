@@ -2,6 +2,7 @@
   <div id="app">
     <h1>{{ msg }}</h1>
     <bouncing-loader ></bouncing-loader>
+    <donut-loader ></donut-loader>
   </div>
 </template>
 

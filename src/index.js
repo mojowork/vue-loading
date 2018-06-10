@@ -5,9 +5,11 @@
  */
 
 import { Bouncing } from 'components/bouncing'
+import { Donut } from 'components/donut'
 
 let loading = [
-    Bouncing
+    Bouncing,
+    Donut
 ]
     
 
