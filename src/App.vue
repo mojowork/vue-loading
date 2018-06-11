@@ -4,6 +4,7 @@
     <bouncing-loader></bouncing-loader>
     <donut-loader></donut-loader>
     <bubbles-loader></bubbles-loader>
+    <spokes-loader></spokes-loader>
   </div>
 </template>
 

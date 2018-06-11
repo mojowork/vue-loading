@@ -21,7 +21,6 @@
         },
         computed: {
             GenerateBubblesStyle() {
-                console.log(this.color)
                 return {
                     backgroundColor: this.color
                 }
@@ -46,7 +45,6 @@
     width: 1rem;
     height: 1rem;
     margin: 3rem 0.2rem;
-    // background-color: #8385aa;
     border-radius: 50%;
     animation: bubbles-loader 0.6s infinite alternate;
     &:nth-child(2){
