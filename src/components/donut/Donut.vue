@@ -38,10 +38,10 @@
 }
 .donut {
   display: inline-block;
-  border: 4px solid rgba(0, 0, 0, 0.1);
+  border: .4rem solid rgba(0, 0, 0, 0.1);
   border-radius: 50%;
-  width: 30px;
-  height: 30px;
+  width: 3rem;
+  height: 3rem;
   animation: donut-spin 1.2s linear infinite;
 }
 </style>

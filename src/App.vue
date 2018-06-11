@@ -5,6 +5,7 @@
     <donut-loader></donut-loader>
     <bubbles-loader></bubbles-loader>
     <spokes-loader></spokes-loader>
+    <bars-loader></bars-loader>
   </div>
 </template>
 

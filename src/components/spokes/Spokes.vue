@@ -50,7 +50,7 @@
         position: absolute; 
         top: calc(50% - .5rem);
         left: calc(50% - .25rem);
-        animation: spokes-loader 1s infinite alternate;
+        animation: spokes-loader 0.875s infinite alternate;
 
         // @for $i from 1 through 8{
         //     &:nth-child(#{$i}){

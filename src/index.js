@@ -8,12 +8,14 @@ import { Bouncing } from 'components/bouncing'
 import { Donut } from 'components/donut'
 import { Bubbles } from 'components/bubbles'
 import { Spokes } from 'components/spokes'
+import { Bars } from 'components/bars'
 
 let loading = [
     Bouncing,
     Donut,
     Bubbles,
-    Spokes
+    Spokes,
+    Bars
 ]
     
 
