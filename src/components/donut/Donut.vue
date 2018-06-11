@@ -36,12 +36,16 @@
     transform: rotate(360deg);
   }
 }
-.donut {
-  display: inline-block;
-  border: .4rem solid rgba(0, 0, 0, 0.1);
-  border-radius: 50%;
-  width: 3rem;
-  height: 3rem;
-  animation: donut-spin 1.2s linear infinite;
+.donut-loader{
+    display: flex;
+    justify-content: center;
+    .donut {
+        display: inline-block;
+        border: .4rem solid rgba(0, 0, 0, 0.1);
+        border-radius: 50%;
+        width: 3rem;
+        height: 3rem;
+        animation: donut-spin 1.2s linear infinite;
+    }
 }
 </style>

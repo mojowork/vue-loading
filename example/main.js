@@ -1,6 +1,6 @@
 import Vue from 'vue'
 import App from './App.vue'
-import loading from './index'
+import loading from '../dist/vue-loading'
 
 Vue.use(loading)
 
